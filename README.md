@@ -1,4 +1,4 @@
-# python-utilities
+# Python Utilities
 Scripts auxiliadores para acelerar tarefas do dia a dia, desenvolvidos em python.
 
 1 - CSV Splitter
